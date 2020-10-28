@@ -5,7 +5,7 @@ This code is based on a project progress for a programming course. This is not t
 
 Requisites:
 
-  1. You need to install openCV dependencies to make it work correctly, otherwise you will get an error.
+  1. You need to install openCV dependencies to make it work correctly, otherwise you will get several errors.
   
   2. You need to install openCV libraries if you are a GNU/Linux user.
   
